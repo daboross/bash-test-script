@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 # Copyright 2013 Dabo Ross <http://www.daboross.net>
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
